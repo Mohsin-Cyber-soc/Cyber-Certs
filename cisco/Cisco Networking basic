@@ -1,4 +1,4 @@
-# Cisco Networking Basics Notes
+# 💻 Cisco Networking Basics Notes
 
 ### Introduction
 This document contains notes and key takeaways from the "Networking Basics" course on the Cisco Networking Academy platform. The course provided a foundational overview of computer networks, devices, and protocols.
@@ -7,45 +7,45 @@ This document contains notes and key takeaways from the "Networking Basics" cour
 
 ### Key Concepts and Modules
 
-#### Module 1: Communication in a Connected World
-*   **Network Types:** Understanding different types of networks, such as LANs and WANs.
+#### **Module 1: Communication in a Connected World**
+*   **Network Types:** Understanding different types of networks, such as **LANs** and **WANs**.
 *   **Data Transmission:** How data is sent and received across a network.
 *   **Bandwidth and Throughput:** The difference between theoretical and actual network speed.
 
-#### Module 2: Network Components, Types, and Connections
+#### **Module 2: Network Components, Types, and Connections**
 *   **Clients and Servers:** The fundamental roles of devices in a network.
-*   **Network Components:** Exploring the functions of devices like routers, switches, and access points.
+*   **Network Components:** Exploring the functions of devices like **routers**, **switches**, and **access points**.
 *   **ISP Connectivity Options:** Understanding how internet service providers connect homes and businesses.
 
-#### Module 3: Wireless and Mobile Networks
-*   **Wireless Networks:** The basics of Wi-Fi technology and standards.
+#### **Module 3: Wireless and Mobile Networks**
+*   **Wireless Networks:** The basics of **Wi-Fi** technology and standards.
 *   **Mobile Device Connectivity:** How mobile devices stay connected to the internet.
 
-#### Module 4: Build a Home Network
+#### **Module 4: Build a Home Network**
 *   **Home Network Basics:** The process of setting up a basic network in a small office or home.
 *   **Home Router Configuration:** Hands-on steps for configuring a wireless router.
 
-#### Module 5: Communication Principles
-*   **Communication Protocols:** The rules that govern how devices communicate (e.g., TCP/IP).
+#### **Module 5: Communication Principles**
+*   **Communication Protocols:** The rules that govern how devices communicate (e.g., **TCP/IP**).
 *   **OSI and TCP/IP Models:** Differentiating and understanding the layers of these networking models.
 
-#### Module 6: Network Media
+#### **Module 6: Network Media**
 *   **Network Media Types:** The different kinds of cables and technologies used for network connections.
 
-#### Module 7: The Access Layer
+#### **Module 7: The Access Layer**
 *   **Encapsulation:** How data is wrapped for transport across a network.
-*   **Ethernet Frame:** Understanding the structure of an Ethernet frame.
+*   **Ethernet Frame:** Understanding the structure of an **Ethernet frame**.
 
-#### Module 8: The Internet Protocol (IP)
-*   **Purpose of an IPv4 Address:** The role of IP addresses in device identification.
-*   **IPv4 Address Structure:** The components of an IPv4 address.
+#### **Module 8: The Internet Protocol (IP)**
+*   **Purpose of an IPv4 Address:** The role of **IP addresses** in device identification.
+*   **IPv4 Address Structure:** The components of an **IPv4 address**.
 
-#### Module 9: IPv4 and Network Segmentation
+#### **Module 9: IPv4 and Network Segmentation**
 *   **IP Addressing:** How to assign and manage IP addresses.
-*   **Network Segmentation:** Using subnets to divide a large network into smaller, more manageable parts.
+*   **Network Segmentation:** Using **subnets** to divide a large network into smaller, more manageable parts.
 
-#### Module 10: IPv6 Addressing
-*   **IPv6 Address Formats and Rules:** The purpose and structure of the next-generation IP addressing system.
+#### **Module 10: IPv6 Addressing**
+*   **IPv6 Address Formats and Rules:** The purpose and structure of the next-generation **IP addressing system**.
 
 ---
 
