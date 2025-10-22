@@ -1,6 +1,6 @@
 # Cisco Introduction to Cybersecurity: Notes & Practice
 
-This repository contains notes and key takeaways from the Cisco Networking Academy's "Introduction to Cybersecurity" course. This course served as a foundational step into the world of information security, providing a comprehensive overview of cybersecurity principles and best practices.
+This repository contains notes and key takeaways from the Cisco Networking Academy's "**Introduction to Cybersecurity**" course. This training served as a foundational step into the world of information security, providing a comprehensive overview of cybersecurity principles and best practices.
 
 ## Course Structure and Key Topics
 
@@ -8,37 +8,35 @@ The material covers the core principles of cybersecurity, including the threat l
 
 ### Module 1: Introduction to Cybersecurity
 *   **Defining Cybersecurity:** The practice of protecting systems, networks, and programs from digital attacks.
-*   **The CIA Triad:** Understanding the core security principles of Confidentiality, Integrity, and Availability.
+*   **The CIA Triad:** Understanding the core security principles of **Confidentiality, Integrity, and Availability**.
 *   **The Impact of Cybercrime:** A look at the growing, global problem of cybercrime and its effects on individuals and businesses.
 
 ### Module 2: The Cybersecurity Threat Landscape
 *   **Threats and Vulnerabilities:** Learning to distinguish between threats (potential dangers) and vulnerabilities (weaknesses).
-*   **Common Cyber Threats:** A deep dive into various types of malware, phishing scams, and Denial of Service (DoS) attacks.
+*   **Common Cyber Threats:** A deep dive into various types of malware, phishing scams, and **Denial of Service (DoS)** attacks.
 *   **Attackers and Their Motives:** Understanding the different types of cybercriminals and their motivations.
 
 ### Module 3: Protecting Your Data and Privacy
-*   **Device Security:** Best practices for securing personal devices, including the use of strong passwords and encryption.
+*   **Securing Your Devices:** Best practices for protecting personal computers and mobile devices.
 *   **Network Security:** The dangers of using public Wi-Fi and how to protect against network-based attacks.
 *   **Data Backups:** The critical importance of regular data backups to prevent loss.
 
 ### Module 4: Protecting the Organization
-*   **Network Protection:** An introduction to corporate security controls like firewalls, Intrusion Prevention Systems (IPS), and Access Control Lists (ACLs).
-*   **Endpoint Security:** Protecting individual devices within a corporate network.
+*   **Network Protection:** An introduction to corporate security controls like firewalls, **Intrusion Prevention Systems (IPS)**, and Access Control Lists (ACLs).
 *   **Security Policies:** The role of security policies and user education in protecting an organization.
 
 ### Module 5: Your Future in Cybersecurity
 *   **Cybersecurity Career Paths:** Exploring potential job roles and career opportunities in the cybersecurity industry.
-*   **Professional Certifications:** Guidance on common industry certifications to advance a career.
-*   **Ethical and Legal Issues:** A look at the legal and ethical considerations in the field.
+*   **Professional Certifications:** Information on common industry certifications to advance a career.
 
 ## Skills Developed
 
 Through the completion of this course and the detailed notes, the following foundational skills were reinforced:
-*   Cybersecurity Fundamentals
-*   Information Security
-*   Threat Detection
-*   Security Awareness
-*   Risk Management
-*   Network Security Principles
+*   **Cybersecurity Fundamentals**
+*   **Information Security**
+*   **Threat Detection**
+*   **Security Awareness**
+*   **Risk Management**
+*   **Network Security Principles**
 
 This documentation serves as a reliable reference and showcases a dedicated effort to build a strong foundation for a career in cybersecurity.
