@@ -1,0 +1,44 @@
+# 🔒 Cisco Introduction to Cybersecurity Notes
+
+### Introduction
+This document contains notes and key takeaways from the "Introduction to Cybersecurity" course on the Cisco Networking Academy platform. The course offered a foundational overview of cybersecurity principles, the threat landscape, and strategies for protecting data and networks.
+
+---
+
+### Key Concepts and Modules
+
+#### **Module 1: The World of Cybersecurity**
+*   What is Cybersecurity?: Understanding the practice of protecting systems, networks, and programs from digital attacks.
+*   The CIA Triad: Exploring the core security principles of **Confidentiality**, **Integrity**, and **Availability**.
+*   Threat Actors: Distinguishing between different types of malicious actors, including nation-states, organized crime, and hacktivists.
+
+#### **Module 2: The Attackers and The Threat Landscape**
+*   Threats and Vulnerabilities: Learning to distinguish between threats (potential dangers) and vulnerabilities (weaknesses).
+*   Common Cyber Threats: A deep dive into various types of malware, phishing scams, and **Denial of Service (DoS)** attacks.
+*   Attack Vectors: Understanding the different methods attackers use to gain access to a system or network.
+
+#### **Module 3: Protecting Your Data and Privacy**
+*   Protecting Devices: Best practices for securing endpoints, such as using strong passwords and implementing **two-factor authentication (2FA)**.
+*   Protecting Networks: Understanding how firewalls, **Intrusion Prevention Systems (IPS)**, and secure network protocols help protect an organization's network.
+*   Data Maintenance: The importance of backing up data and managing sensitive information securely.
+
+#### **Module 4: Defending the Organization**
+*   Cybersecurity Frameworks: Introduction to cybersecurity frameworks like the **NIST Cybersecurity Framework**, which helps organizations manage and reduce cybersecurity risk.
+*   Incident Response: An overview of the process for responding to and recovering from a security incident.
+*   Security Policies: The role of clear security policies in defining an organization's security standards and procedures.
+
+#### **Module 5: The Cybersecurity Profession**
+*   Cybersecurity Roles: Exploring different career paths within cybersecurity, such as **Penetration Testing** and **Security Operations**.
+*   Career Resources: Learning about industry certifications and resources for continuing education in cybersecurity.
+*   Future of Cybersecurity: A look at emerging technologies and trends that will impact the cybersecurity landscape.
+
+---
+
+### Skills Developed
+
+Through the completion of this course and the detailed notes, the following foundational skills were reinforced:
+*   **Cybersecurity Fundamentals:** A solid understanding of core security concepts and principles.
+*   **Threat Awareness:** Ability to recognize and differentiate between various cyber threats, attacks, and vulnerabilities.
+*   **Security Best Practices:** Knowledge of best practices for protecting personal data and securing devices and networks.
+*   **Cybersecurity Concepts:** An introduction to frameworks and strategies used by organizations to defend against attacks.
+*   **Career Pathways:** An understanding of potential career paths and the necessary skills for a cybersecurity professional.
