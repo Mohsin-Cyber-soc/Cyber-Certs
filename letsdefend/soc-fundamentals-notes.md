@@ -1,60 +1,34 @@
-# 💻 Cisco Networking Basics Notes
+# 🛡️ LetsDefend SOC Fundamentals Notes
 
 ### Introduction
-This document contains notes and key takeaways from the "Networking Basics" course on the Cisco Networking Academy platform. The course provided a foundational overview of computer networks, devices, and protocols.
+This document contains notes and key takeaways from the "SOC Fundamentals" training on the LetsDefend platform. This training covers the basics of how a Security Operations Center (SOC) works, its tools, and the role of an analyst.
 
 ---
 
 ### Key Concepts and Modules
 
-#### **Module 1: Communication in a Connected World**
-*   **Network Types:** Understanding different types of networks, such as **LANs** and **WANs**.
-*   **Data Transmission:** How data is sent and received across a network.
-*   **Bandwidth and Throughput:** The difference between theoretical and actual network speed.
+#### **Module 1: What is a SOC?**
+*   **SOC Types:** Understanding the different models of SOCs, from in-house to outsourced.
+*   **SOC Activities vs. CSIRT Activities:** Differentiating between proactive SOC tasks and reactive **Incident Response** activities.
+*   **SOC Mission:** Exploring the primary goals and mission of a Security Operations Center.
 
-#### **Module 2: Network Components, Types, and Connections**
-*   **Clients and Servers:** The fundamental roles of devices in a network.
-*   **Network Components:** Exploring the functions of devices like **routers**, **switches**, and **access points**.
-*   **ISP Connectivity Options:** Understanding how internet service providers connect homes and businesses.
+#### **Module 2: SOC Tools and Technology**
+*   **SIEM (Security Information and Event Management):** Learning the purpose of a SIEM for log collection, correlation, and analysis.
+*   **EDR (Endpoint Detection and Response):** Understanding how EDR provides visibility and response capabilities on endpoints.
+*   **SOAR (Security Orchestration, Automation, and Response):** Exploring how SOAR is used to automate incident response playbooks.
+*   **IDS/IPS (Intrusion Detection/Prevention System):** Reviewing how these tools monitor network traffic for malicious activity.
 
-#### **Module 3: Wireless and Mobile Networks**
-*   **Wireless Networks:** The basics of **Wi-Fi** technology and standards.
-*   **Mobile Device Connectivity:** How mobile devices stay connected to the internet.
+#### **Module 3: The Attack Lifecycle and Threats**
+*   **The Cyber Kill Chain:** Understanding the stages of a cyber attack, from reconnaissance to exfiltration.
+*   **MITRE ATT&CK Framework:** Learning how to use the framework to understand and categorize attacker tactics and techniques.
+*   **Common Infection Vectors:** Identifying common ways attackers gain initial access, such as phishing and web attacks.
 
-#### **Module 4: Build a Home Network**
-*   **Home Network Basics:** The process of setting up a basic network in a small office or home.
-*   **Home Router Configuration:** Hands-on steps for configuring a wireless router.
+#### **Module 4: Alert and Incident Analysis**
+*   **Log Management:** Understanding the importance of logs as forensic data and how they are handled within a SOC.
+*   **Incident Management:** Following the incident response lifecycle from detection and containment to eradication and recovery.
+*   **Threat Hunting:** Learning the basics of proactively searching for threats that have evaded standard security controls.
 
-#### **Module 5: Communication Principles**
-*   **Communication Protocols:** The rules that govern how devices communicate (e.g., **TCP/IP**).
-*   **OSI and TCP/IP Models:** Differentiating and understanding the layers of these networking models.
-
-#### **Module 6: Network Media**
-*   **Network Media Types:** The different kinds of cables and technologies used for network connections.
-
-#### **Module 7: The Access Layer**
-*   **Encapsulation:** How data is wrapped for transport across a network.
-*   **Ethernet Frame:** Understanding the structure of an **Ethernet frame**.
-
-#### **Module 8: The Internet Protocol (IP)**
-*   **Purpose of an IPv4 Address:** The role of **IP addresses** in device identification.
-*   **IPv4 Address Structure:** The components of an **IPv4 address**.
-
-#### **Module 9: IPv4 and Network Segmentation**
-*   **IP Addressing:** How to assign and manage IP addresses.
-*   **Network Segmentation:** Using **subnets** to divide a large network into smaller, more manageable parts.
-
-#### **Module 10: IPv6 Addressing**
-*   **IPv6 Address Formats and Rules:** The purpose and structure of the next-generation **IP addressing system**.
-
----
-
-### Skills Developed
-
-Through the completion of this course and the detailed notes, the following foundational skills were reinforced:
-*   **Computer Networking:** Deepened understanding of networking fundamentals and principles.
-*   **Network Protocols (TCP/IP):** Gained knowledge of communication protocols and their roles.
-*   **Network Configuration:** Learned to configure a basic home wireless network.
-*   **IP Addressing and Subnetting:** Developed the ability to assign IP addresses and segment networks.
-*   **Network Troubleshooting:** Acquired foundational skills for diagnosing and resolving network issues.
-*   **Cisco Packet Tracer:** Practiced using simulation software to build and test network topologies.
+#### **Module 5: The SOC Analyst's Role**
+*   **Analyst Responsibilities:** Understanding the day-to-day duties of a **Tier 1** or **Tier 2 SOC analyst**.
+*   **Working with Tools:** Practicing how to use SIEM and EDR dashboards to investigate alerts and perform basic analysis.
+*   **Collaboration:** Understanding the importance of teamwork and effective communication within the SOC and with other departments.
