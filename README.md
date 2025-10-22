@@ -10,10 +10,10 @@ It contains documented write-ups of labs, challenges, and training exercises fro
 
 ## 📚 Training & Certifications
 
-*   **ISC2 Certified in Cybersecurity (CC):** [Link to Credly Badge]
-*   **LetsDefend SOC Fundamentals:** [Link to your certificate or a summary blog post]
-*   **TryHackMe Pre-Security Path:** Complete
-*   **TryHackMe Security 101:** Complete
+*   **ISC2 Certified in Cybersecurity (CC):** uncomplete right now
+*   **LetsDefend SOC Fundamentals:** 
+*   **TryHackMe Pre-Security Path:** uncomplete right now
+*   **TryHackMe Security 101:** (uncomplete right now)
 
 ---
 
