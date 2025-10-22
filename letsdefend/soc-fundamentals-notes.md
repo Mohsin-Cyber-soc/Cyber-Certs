@@ -1,29 +1,43 @@
-# LetsDefend: SOC Fundamentals Notes
+# Cisco Introduction to Cybersecurity Notes
 
 ### Introduction
-This document contains notes and key takeaways from the SOC Fundamentals course on the LetsDefend platform. The course offered a foundational overview of the security operations center environment, including roles, responsibilities, and core technologies.
+This document contains notes and key takeaways from the "Introduction to Cybersecurity" course on the Cisco Networking Academy platform. The course offered a foundational overview of cybersecurity principles, the threat landscape, and strategies for protecting data and networks.
 
 ---
 
 ### Key Concepts and Modules
 
-#### **Module 1: Introduction to SOC**
-*   **What is a SOC?** Notes on the primary mission of a SOC (detecting, analyzing, and responding to cyber threats).
-*   **SOC Analyst Tiers:** An explanation of the different levels of analysts (Tier 1, Tier 2, etc.) and their respective duties.
-*   **Incident Response Lifecycle:** A summary of the key phases of handling an incident, such as preparation, detection, analysis, containment, eradication, and post-incident activity.
+#### **Module 1: Introduction to Cybersecurity**
+*   **What is Cybersecurity?** Understanding the practice of protecting systems, networks, and programs from digital attacks.
+*   **The CIA Triad:** Exploring the core security principles of Confidentiality, Integrity, and Availability.
+*   **The Impact of Cybercrime:** A look at the growing, global problem of cybercrime and its effects on individuals and businesses.
 
-#### **Module 2: SIEM and Log Management**
-*   **SIEM Explained:** A description of how SIEM systems aggregate logs from different sources and use rules to generate alerts.
-*   **Log Management:** Notes on the importance of log sources (e.g., firewalls, servers) and why log retention is critical for investigations.
+#### **Module 2: The Cybersecurity Threat Landscape**
+*   **Threats and Vulnerabilities:** Learning to distinguish between threats (potential dangers) and vulnerabilities (weaknesses).
+*   **Common Cyber Threats:** A deep dive into various types of malware, phishing scams, and **Denial of Service (DoS)** attacks.
+*   **Attackers and Their Motives:** Understanding the different types of cybercriminals and their motivations.
 
-#### **Module 3: EDR and Endpoint Security**
-*   **EDR Tools:** A summary of how Endpoint Detection and Response tools provide visibility into endpoint activity (like process execution and file changes).
-*   **Malware Analysis Fundamentals:** Key takeaways on the basics of identifying and analyzing malicious software.
+#### **Module 3: Protecting Your Data and Privacy**
+*   **Securing Your Devices:** Best practices for protecting personal computers and mobile devices.
+*   **Network Security:** The dangers of using public Wi-Fi and how to protect against network-based attacks.
+*   **Data Backups:** The critical importance of regular data backups to prevent data loss.
+
+#### **Module 4: Protecting the Organization**
+*   **Network Protection:** An introduction to corporate security controls like firewalls, **Intrusion Prevention Systems (IPS)**, and Access Control Lists (ACLs).
+*   **Security Policies:** The role of security policies and user education in protecting an organization.
+
+#### **Module 5: Your Future in Cybersecurity**
+*   **Cybersecurity Career Paths:** Exploring potential job roles and career opportunities in the cybersecurity industry.
+*   **Professional Certifications:** Information on common industry certifications to advance a career.
 
 ---
 
-### Reflection and Next Steps
-The SOC Fundamentals course provided a theoretical framework for a career in cybersecurity. It helped to understand the bigger picture of a SOC's function.
+### Skills Developed
 
-The next step is to apply these concepts in hands-on labs on both LetsDefend and TryHackMe. This will help translate the theoretical knowledge of incident response and SIEM usage into practical skills. The goal is to document these labs and build a personal portfolio.
-
+Through the completion of this course and the detailed notes, the following foundational skills were reinforced:
+*   **Cybersecurity Fundamentals**
+*   **Information Security**
+*   **Threat Detection**
+*   **Security Awareness**
+*   **Risk Management**
+*   **Network Security Principles**
