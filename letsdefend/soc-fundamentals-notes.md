@@ -1,121 +1,60 @@
-🛡️ SOC Analyst Portfolio: Let's Defend Fundamentals
+# 💻 Cisco Networking Basics Notes
 
-This repository serves as a practical portfolio documenting my hands-on experience and investigative methodologies from the SOC Fundamentals course, specifically utilizing the Let's Defend platform's simulations.
+### Introduction
+This document contains notes and key takeaways from the "Networking Basics" course on the Cisco Networking Academy platform. The course provided a foundational overview of computer networks, devices, and protocols.
 
-The goal is to demonstrate proficiency in Tier 1 and Tier 2 Incident Response (IR), log analysis, and threat hunting, reinforcing skills with Linux command-line tools.
+---
 
-📝 Module Progress Tracker
+### Key Concepts and Modules
 
-This table tracks the completion and key takeaways from the main sections of the course.
+#### **Module 1: Communication in a Connected World**
+*   **Network Types:** Understanding different types of networks, such as **LANs** and **WANs**.
+*   **Data Transmission:** How data is sent and received across a network.
+*   **Bandwidth and Throughput:** The difference between theoretical and actual network speed.
 
-Module / Case Study
+#### **Module 2: Network Components, Types, and Connections**
+*   **Clients and Servers:** The fundamental roles of devices in a network.
+*   **Network Components:** Exploring the functions of devices like **routers**, **switches**, and **access points**.
+*   **ISP Connectivity Options:** Understanding how internet service providers connect homes and businesses.
 
-Status
+#### **Module 3: Wireless and Mobile Networks**
+*   **Wireless Networks:** The basics of **Wi-Fi** technology and standards.
+*   **Mobile Device Connectivity:** How mobile devices stay connected to the internet.
 
-Key Focus Areas
+#### **Module 4: Build a Home Network**
+*   **Home Network Basics:** The process of setting up a basic network in a small office or home.
+*   **Home Router Configuration:** Hands-on steps for configuring a wireless router.
 
-Triage & Incident Lifecycle
+#### **Module 5: Communication Principles**
+*   **Communication Protocols:** The rules that govern how devices communicate (e.g., **TCP/IP**).
+*   **OSI and TCP/IP Models:** Differentiating and understanding the layers of these networking models.
 
-✅ Completed
+#### **Module 6: Network Media**
+*   **Network Media Types:** The different kinds of cables and technologies used for network connections.
 
-Alert classification, severity rating, and documentation standards.
+#### **Module 7: The Access Layer**
+*   **Encapsulation:** How data is wrapped for transport across a network.
+*   **Ethernet Frame:** Understanding the structure of an **Ethernet frame**.
 
-Phishing Analysis (Email)
+#### **Module 8: The Internet Protocol (IP)**
+*   **Purpose of an IPv4 Address:** The role of **IP addresses** in device identification.
+*   **IPv4 Address Structure:** The components of an **IPv4 address**.
 
-✅ Completed
+#### **Module 9: IPv4 and Network Segmentation**
+*   **IP Addressing:** How to assign and manage IP addresses.
+*   **Network Segmentation:** Using **subnets** to divide a large network into smaller, more manageable parts.
 
-Header inspection, decoding URLs, identifying social engineering tactics.
+#### **Module 10: IPv6 Addressing**
+*   **IPv6 Address Formats and Rules:** The purpose and structure of the next-generation **IP addressing system**.
 
-Web Shell / Command & Control (C2)
+---
 
-🛠️ In Progress
+### Skills Developed
 
-Identifying suspicious HTTP methods, rare user agents, and post-exploitation activity.
-
-Malware File Analysis
-
-✅ Completed
-
-Hashing (MD5/SHA256), VirusTotal lookup, and understanding execution flow.
-
-Linux Persistence Checks
-
-✅ Completed
-
-Auditing Cron jobs (crontab -l), checking system services (systemctl), and examining /etc.
-
-🚨 Incident Response Write-Up Template
-
-Each completed lab or incident simulation is documented in a separate markdown file (IR_\[ID]\.md). This template ensures consistency and clear communication of findings.
-
-Case Title: [E.g., High-Severity Alert: Web Shell Detected]
-
-Field
-
-Detail
-
-Incident ID
-
-LD-2025-[ID]
-
-Date/Time of Alert
-
-2025-10-22 10:00:00 UTC
-
-Security Analyst
-
-[Your Name / GitHub Handle]
-
-Final Status
-
-CLOSED - True Positive (or False Positive/Escalated)
-
-1. Initial Triage & Summary
-
-Alert Trigger: (E.g., EDR triggered on creation of a suspicious file in /var/www/html/)
-
-Initial Findings: A brief summary of the confirmed activity (E.g., "Confirmed creation of an anomalous file (cmd.php) used for remote command execution.")
-
-Key Indicators of Compromise (IOCs):
-
-Source IP: 10.10.10.5
-
-File Hash (SHA256): a1b2c3d4e5f6g7h8...
-
-Suspicious URL/Domain: malicious.site.com
-
-2. Investigation & Log Analysis (CLI Focus)
-
-Document the steps taken to validate the alert, explicitly referencing the core Linux commands you practiced.
-
-Process Monitoring (ps, pstree): Checked for unusual parent/child relationships on the affected server. Finding: Anomalous PHP process running from web server context.
-
-File System Audit (find, ls): Located the suspicious file and checked its metadata. Command: find /var/www/html -name 'cmd.php' -mtime -1 (Found the file created 3 hours ago).
-
-Log Review (grep, tail): Searched the access logs for connections to the malicious file. Command: grep 'POST /cmd.php' /var/log/httpd/access.log | head -5
-
-Persistence Check (crontab): Checked the affected user's crontab for scheduled tasks. Command: sudo crontab -l -u affected_user
-
-3. Containment & Remediation
-
-Containment: The host was immediately isolated via firewall rule/EDR action.
-
-Eradication: The malicious file (cmd.php) was securely deleted, and all services were patched.
-
-Recovery: The server was monitored for 48 hours and returned to production.
-
-Key Takeaway: The use of grep -R was critical to quickly identify other files in the directory modified at the same time, leading to full scope of compromise.
-
-🛠️ Core SOC & Linux Skills Demonstrated
-
-This is the most important section for recruiters—it is a direct list of your proven capabilities.
-
-Linux CLI Mastery (Tier 1 Focus): Highly proficient in cat, less, grep, ss, ps, tar, and find for rapid log parsing and artifact collection.
-
-Investigation Tools (Tier 2 Focus): Practical experience with md5sum/sha256sum, strings, tcpdump, and systemctl/crontab for deep analysis and persistence checks.
-
-Network Forensics: Analysis of packet captures (PCAP) and interpreting network connections (ss -tuln).
-
-Incident Management: Adhering to the Incident Response Lifecycle (Preparation, Identification, Containment, Eradication, Recovery, Lessons Learned).
-
-Tool Familiarity: Using external tools (VirusTotal, URLScan) for threat intelligence enrichment.
+Through the completion of this course and the detailed notes, the following foundational skills were reinforced:
+*   **Computer Networking:** Deepened understanding of networking fundamentals and principles.
+*   **Network Protocols (TCP/IP):** Gained knowledge of communication protocols and their roles.
+*   **Network Configuration:** Learned to configure a basic home wireless network.
+*   **IP Addressing and Subnetting:** Developed the ability to assign IP addresses and segment networks.
+*   **Network Troubleshooting:** Acquired foundational skills for diagnosing and resolving network issues.
+*   **Cisco Packet Tracer:** Practiced using simulation software to build and test network topologies.
