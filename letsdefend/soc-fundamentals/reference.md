@@ -24,5 +24,3 @@
 - Write down key Linux/Windows commands you use in investigations (e.g., `netstat`, `tasklist`, `grep`, `Get-EventLog`).  
 - Maintain a personal list of commonly seen Alerts → Investigation steps → Response.  
 - Keep a “common mistakes” log: whenever you make a mistake, note what it was and how you’ll avoid it next time.  
-
-> **Tip:** Use this reference guide anytime you review your notes, practice in labs, or prepare for interviews. It’s your quick‑reference toolkit for SOC fundamentals.
