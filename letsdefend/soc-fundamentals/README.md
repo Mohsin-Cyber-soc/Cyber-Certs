@@ -13,7 +13,7 @@ This directory contains my notes and reference material from the **SOC Fundament
 
 ## 🧠 Key Skills & Concepts Covered
 
-- Structure and purpose of a **Security Operations Center (SOC)** (types, roles) :contentReference[oaicite:0]{index=0}  
+- Structure and purpose of a **Security Operations Center (SOC)** (types, roles) :contentReference [oaicite:0] {index=0}  
 - Responsibilities of a SOC analyst: triage, investigation, escalation :contentReference[oaicite:1]{index=1}  
 - Relationship between **SIEM** (Security Information and Event Management) and SOC analysts :contentReference[oaicite:2]{index=2}  
 - Log management: how logs are collected, parsed, and used in security monitoring :contentReference[oaicite:3]{index=3}  
