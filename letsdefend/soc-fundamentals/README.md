@@ -13,15 +13,14 @@ This directory contains my notes and reference material from the **SOC Fundament
 
 ## 🧠 Key Skills & Concepts Covered
 
-- Understanding the structure and purpose of a **Security Operations Center (SOC)** :contentReference[oaicite:0]{index=0}  
-- Different SOC types and analyst roles (in‑house SOC, virtual SOC, co‑managed) :contentReference[oaicite:1]{index=1}  
-- The responsibilities of a SOC analyst: triage, investigation, escalation :contentReference[oaicite:2]{index=2}  
-- Relationship between **SIEM** (Security Information and Event Management) and SOC analysts :contentReference[oaicite:3]{index=3}  
-- Log management: how logs are collected, parsed, and used for security monitoring :contentReference[oaicite:4]{index=4}  
-- **EDR (Endpoint Detection & Response)**: how it's used within SOC investigations :contentReference[oaicite:5]{index=5}  
-- **SOAR (Security Orchestration, Automation & Response)**: basics and why it’s important in modern SOCs :contentReference[oaicite:6]{index=6}  
-- Using a **Threat Intelligence Feed** to support SOC operations :contentReference[oaicite:7]{index=7}  
-- Common mistakes SOC analysts make and how they can be avoided :contentReference[oaicite:8]{index=8}  
+- Structure and purpose of a **Security Operations Center (SOC)** (types, roles) :contentReference[oaicite:0]{index=0}  
+- Responsibilities of a SOC analyst: triage, investigation, escalation :contentReference[oaicite:1]{index=1}  
+- Relationship between **SIEM** (Security Information and Event Management) and SOC analysts :contentReference[oaicite:2]{index=2}  
+- Log management: how logs are collected, parsed, and used in security monitoring :contentReference[oaicite:3]{index=3}  
+- **EDR (Endpoint Detection & Response)**: how SOCs use endpoint telemetry for investigation :contentReference[oaicite:4]{index=4}  
+- **SOAR (Security Orchestration, Automation & Response)**: basics and its importance in SOC workflows :contentReference[oaicite:5]{index=5}  
+- Using a **Threat Intelligence Feed** to support SOC decision‑making :contentReference[oaicite:6]{index=6}  
+- Common mistakes made by SOC analysts and how to avoid them :contentReference[oaicite:7]{index=7}  
 
 ---
 
