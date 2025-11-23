@@ -1,53 +1,54 @@
 # SOC Fundamentals – Let’s Defend
 
-This folder contains my notes and reference material from the **SOC Fundamentals** course on Let’s Defend. It’s a beginner‑friendly training that introduces how a Security Operations Center (SOC) works, the core tools used, and the mindset required for defensive cybersecurity.
+This directory contains my notes and reference material from the **SOC Fundamentals** course on Let’s Defend. This course is designed for beginners who want to understand how a Security Operations Center (SOC) works, which tools are used, and how SOC analysts think.
 
 ---
 
 ## 📘 What’s Inside
 
-- `notes.md` — My detailed summaries of the course lessons, SOC concepts, and workflows  
-- `reference.md` — Cheat sheets, essential commands, SOC concepts, and useful external resources  
+- `notes.md` — Detailed summaries of each lesson, SOC concepts, and workflows  
+- `reference.md` — Cheat sheets, major tools (EDR, SOAR, etc.), and external resources to revisit key ideas  
 
 ---
 
 ## 🧠 Key Skills & Concepts Covered
 
-- Understanding what a **Security Operations Center (SOC)** is, and its role in cybersecurity :contentReference[oaicite:0]{index=0}  
-- Different SOC types (e.g., 24/7, virtual, in-house) and analyst roles :contentReference[oaicite:1]{index=1}  
-- Log management: collecting, parsing, and using logs for investigation :contentReference[oaicite:2]{index=2}  
-- Endpoint Detection & Response (EDR) systems and how they integrate into SOC operations :contentReference[oaicite:3]{index=3}  
-- SOAR (Security Orchestration, Automation, and Response) basics and why it's used in SOCs :contentReference[oaicite:4]{index=4}  
-- Basic threat intelligence feed usage and how analysts might use it :contentReference[oaicite:5]{index=5}  
-- Common mistakes SOC analysts make and how to avoid them :contentReference[oaicite:6]{index=6}  
+- Understanding the structure and purpose of a **Security Operations Center (SOC)** :contentReference[oaicite:0]{index=0}  
+- Different SOC types and analyst roles (in‑house SOC, virtual SOC, co‑managed) :contentReference[oaicite:1]{index=1}  
+- The responsibilities of a SOC analyst: triage, investigation, escalation :contentReference[oaicite:2]{index=2}  
+- Relationship between **SIEM** (Security Information and Event Management) and SOC analysts :contentReference[oaicite:3]{index=3}  
+- Log management: how logs are collected, parsed, and used for security monitoring :contentReference[oaicite:4]{index=4}  
+- **EDR (Endpoint Detection & Response)**: how it's used within SOC investigations :contentReference[oaicite:5]{index=5}  
+- **SOAR (Security Orchestration, Automation & Response)**: basics and why it’s important in modern SOCs :contentReference[oaicite:6]{index=6}  
+- Using a **Threat Intelligence Feed** to support SOC operations :contentReference[oaicite:7]{index=7}  
+- Common mistakes SOC analysts make and how they can be avoided :contentReference[oaicite:8]{index=8}  
 
 ---
 
 ## ✅ My Learning Approach
 
-- Went through all course modules, including lessons on SOC structure, log management, and EDR.  
-- Took detailed notes to better understand how different SOC functions work together.  
-- Created a reference guide (in `reference.md`) to easily review important tools, best practices, and commands.  
-- Reflected on common SOC pitfalls and how to build a proactive, analytical mindset.
+- Completed all course lessons (as listed on Let’s Defend) :contentReference[oaicite:9]{index=9}  
+- Took detailed notes in `notes.md` to understand SOC workflows, tools, and responsibilities  
+- Created a structured reference guide (`reference.md`) to revisit critical concepts easily  
+- Reflected on real-world SOC challenges and how to think like a defensive analyst  
 
 ---
 
-## 🔍 Why This is Valuable to Employers
+## 🔍 Why This Matters to Employers
 
-- Demonstrates a solid foundational understanding of **SOC operations** — essential for SOC analyst roles.  
-- Shows capability to work with SOC tools and logs (which is often part of L1/L2 analyst job descriptions).  
-- Indicates proactive learning: this isn’t just theory — you’re documenting and analyzing real SOC processes.  
-- Builds a learning portfolio that hiring managers or team leads can review to assess your readiness for SOC work.
+- Shows a **strong foundation** in SOC theory and operations — something many entry-level SOC roles look for  
+- Demonstrates **technical awareness** of critical SOC tools like EDR, SIEM, and SOAR  
+- Indicates a proactive, learning-driven mindset — I’m not just reading; I’m documenting and thinking  
+- Provides a **portfolio of learning**: a well-structured repo that hiring managers can review to see my commitment and clarity of thought  
 
 ---
 
 ## 💬 Example LinkedIn Post
 
-> 🚀 I just completed the **SOC Fundamentals** course on Let’s Defend!  
+> 🚀 Just completed the **SOC Fundamentals** course on Let’s Defend!  
 >  
-> Through this training, I gained hands‑on insight into how SOCs operate — from log management and EDR to automation with SOAR. I also learned about common challenges SOC analysts face and how to adopt a defensive, strategic mindset.  
+> Through this training, I explored how SOCs operate — from log management and EDR to automation with SOAR, and I learned about common pitfalls that SOC analysts often face.  
 >  
-> This experience strengthens my foundation in SOC operations and prepares me to take on real-world security analyst roles. Excited for the next step in my cybersecurity journey! 💻🛡️  
+> This experience has strengthened my foundation in SOC operations and prepared me to take on my next steps in cybersecurity. Excited for where this will take me! 💻🛡️  
 >  
 > #Cybersecurity #SOC #BlueTeam #ContinuousLearning  
-
