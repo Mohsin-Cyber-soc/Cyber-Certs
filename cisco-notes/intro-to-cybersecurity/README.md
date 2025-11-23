@@ -10,23 +10,23 @@ This folder contains my notes and reference material from the **Cisco Introducti
 - `reference.md` — Cheat sheets, key definitions, and external resources to revisit important ideas.
 
 ---
-
 ## 🧠 Key Skills & Concepts Covered
 
-- What cybersecurity is and why it’s important for individuals and organizations. :contentReference[oaicite:0]{index=0}  
-- Common types of cyber threats and vulnerabilities, such as malware, phishing, and social engineering. :contentReference[oaicite:1]{index=1}  
-- Best practices for staying safe online and protecting personal data. :contentReference[oaicite:2]{index=2}  
-- How businesses defend against cyber attacks: risk management, prevention, and response. :contentReference[oaicite:3]{index=3}  
-- Cisco’s security solutions and approach to threat detection. :contentReference[oaicite:4]{index=4}  
-- Strategic and architectural planning for cybersecurity. :contentReference[oaicite:5]{index=5}  
-- An introduction to vulnerabilities in modern systems and how they can be mitigated. :contentReference[oaicite:6]{index=6}  
-- Exploring career opportunities in cybersecurity and how to start. :contentReference[oaicite:7]{index=7}  
+- How a **Security Operations Center (SOC)** works — different SOC types and what SOC analysts do.  
+- The responsibilities of a SOC analyst: triaging alerts, investigating incidents, and escalating when required.  
+- The connection between **SIEM (Security Information & Event Management)** tools and SOC analyst workflows.  
+- Log management: how various logs are collected, parsed, and used for security monitoring.  
+- **EDR (Endpoint Detection & Response)**: how it's used to monitor and investigate endpoint activity.  
+- **SOAR (Security Orchestration, Automation & Response)**: basic concepts and why automating SOC workflows matters.  
+- Using threat intelligence feeds to make more informed decisions in SOC operations.  
+- Common mistakes SOC analysts make and strategies to avoid them.  
+7}  
 
 ---
 
 ## ✅ My Learning Approach
 
-- Completed all modules of the Cisco course, including online lessons, quizzes, and optional labs. :contentReference[oaicite:8]{index=8}  
+- Completed all modules of the Cisco course, including online lessons, quizzes, and optional labs. 
 - Took structured notes to break down complex cybersecurity topics.  
 - Built a reference guide to make it easy to revisit core terms and ideas.  
 - Reflected on how what I learned can apply to real-world security challenges and future career growth.
