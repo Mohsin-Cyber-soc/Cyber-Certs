@@ -113,4 +113,4 @@ I’m open to feedback and collaboration from anyone interested in SOC work or c
 ---
 
 **Thank you for exploring my SOC Analyst & Cybersecurity Portfolio!**  
-_— [Your Name]_  
+_— Mohsin Haider
