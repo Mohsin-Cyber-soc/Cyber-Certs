@@ -8,21 +8,20 @@ This folder contains my notes and reference material from the **Cisco Networking
 
 - `notes.md` — Detailed summaries of each module, theory, and networking concepts  
 - `reference.md` — Cheat sheets, definitions, and useful external resources  
-- Lab / Simulation Activities — Hands-on tasks using network simulation tools (e.g., Cisco Packet Tracer) to reinforce learning and practice real networking scenarios. :contentReference[oaicite:0]{index=0}  
+- `Lab / Simulation Activities` — Hands-on tasks using network simulation tools (e.g., Cisco Packet Tracer) to reinforce learning and practice real networking scenarios. :contentReference[oaicite:0]{index=0}  
 
 ---
 
 ## 🧠 Key Skills & Concepts Covered
 
-- Core networking fundamentals: devices, data flow, and how networks work :contentReference[oaicite:1]{index=1}  
-- The **OSI model**: understanding each of the 7 layers and their role in data transmission :contentReference[oaicite:2]{index=2}  
-- TCP/IP protocols (IP, TCP, UDP) and how they underpin modern networking :contentReference[oaicite:3]{index=3}  
-- Ethernet technology, switching, and VLAN basics :contentReference[oaicite:4]{index=4}  
-- IPv4 addressing and subnetting: how devices get addresses, and how to divide networks :contentReference[oaicite:5]{index=5}  
-- Basic network security: firewalls, authentication, and device protection :contentReference[oaicite:6]{index=6}  
-- Building and configuring small LANs — theory + simulated practice :contentReference[oaicite:7]{index=7}  
-- Hands-on simulation using **Cisco Packet Tracer**: building, testing, and troubleshooting network topologies :contentReference[oaicite:8]{index=8}  
-
+- Core networking fundamentals: devices, data flow, and how networks work
+- The **OSI model**: understanding each of the 7 layers and their role in data transmission
+- TCP/IP protocols (IP, TCP, UDP) and how they underpin modern networking 
+- Ethernet technology, switching, and VLAN basics 
+- IPv4 addressing and subnetting: how devices get addresses, and how to divide networks  
+- Basic network security: firewalls, authentication, and device protection   
+- Building and configuring small LANs — theory + simulated practice
+- Hands-on simulation using **Cisco Packet Tracer**: building, testing, and troubleshooting network topologies 
 ---
 
 ## ✅ My Learning Approach
