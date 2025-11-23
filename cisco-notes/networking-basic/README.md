@@ -8,8 +8,7 @@ This folder contains my notes and reference material from the **Cisco Networking
 
 - `notes.md` — Detailed summaries of each module, theory, and networking concepts  
 - `reference.md` — Cheat sheets, definitions, and useful external resources  
-- `Lab / Simulation Activities` — Hands-on tasks using network simulation tools (e.g., Cisco Packet Tracer) to reinforce learning and practice real networking scenarios. :contentReference[oaicite:0]{index=0}  
-
+- `Lab / Simulation Activities` — Hands-on tasks using network simulation tools (e.g., Cisco Packet Tracer) to reinforce learning and practice real networking scenarios.
 ---
 
 ## 🧠 Key Skills & Concepts Covered
@@ -42,7 +41,7 @@ This folder contains my notes and reference material from the **Cisco Networking
 
 ---
 
-## 💬 Example LinkedIn Post
+## 💬 LinkedIn Post
 
 > 🚀 I’ve completed the **Cisco Networking Basics** course from the Cisco Networking Academy!  
 >  
