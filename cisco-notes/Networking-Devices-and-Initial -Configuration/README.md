@@ -8,7 +8,7 @@ This folder contains my notes and reference materials from the **Cisco Networkin
 
 - `notes.md` — Detailed summaries of each module, core networking concepts, and CLI configuration steps  
 - `reference.md` — Cheat sheets for commands, device configuration guidance, and useful external resources  
-- Lab / Simulation Activities — Packet Tracer–based labs for initial device setup, configuration, and troubleshooting :contentReference[oaicite:0]{index=0}  
+- `Lab / Simulation Activities` — Packet Tracer–based labs for initial device setup, configuration, and troubleshooting   
 
 ---
 
